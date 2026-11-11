@@ -4,15 +4,15 @@ Cloud-based SIEM home lab using Sentinel, Microsoft Azure, KQL, and GeoIP threat
 
 ## Technologies Used
 
--Microsoft Sentinel
--Microsoft Azure
--Windows 11 Virtual Machine
--Azure Log Analytics Workspace
--Azure Monitor Aganet (AMA)
--Kusto Query Language (KQL)
--Microsoft Sentinel Watchlists
--Microsoft Sentinel Workbooks
--Windows Event Viewer
+- Microsoft Sentinel
+- Microsoft Azure
+- Windows 11 Virtual Machine
+- Azure Log Analytics Workspace
+- Azure Monitor Aganet (AMA)
+- Kusto Query Language (KQL)
+- Microsoft Sentinel Watchlists
+- Microsoft Sentinel Workbooks
+- Windows Event Viewer
 
 ## Implementation
 
